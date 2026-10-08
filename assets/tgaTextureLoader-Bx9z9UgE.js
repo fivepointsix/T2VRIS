@@ -1,0 +1,1 @@
+import{s as r,t as n}from"./app-thief-vr-CFUCrOyA.js";import"./index-CSHqiCgN.js";class f{constructor(){this.supportCascades=!1}loadCubeData(){throw".env not supported in Cube."}loadData(e,t,a){const s=new Uint8Array(e.buffer,e.byteOffset,e.byteLength),o=r(s);a(o.width,o.height,t.generateMipMaps,!1,()=>{n(t,s)})}}export{f as _TGATextureLoader};

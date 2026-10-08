@@ -1,0 +1,70 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 1000" fill="none">
+<title>The City after dark - original illustration for Thief II VR</title>
+<defs>
+<linearGradient id="sky" x2="0" y2="1000" gradientUnits="userSpaceOnUse"><stop stop-color="#1e302c"/><stop offset=".58" stop-color="#27372c"/><stop offset="1" stop-color="#101714"/></linearGradient>
+<radialGradient id="moon-glow"><stop stop-color="#c9ca9670"/><stop offset=".36" stop-color="#9caf7740"/><stop offset="1" stop-color="#899c7000"/></radialGradient>
+<radialGradient id="lamp"><stop stop-color="#d9b76b65"/><stop offset="1" stop-color="#d9b76b00"/></radialGradient>
+<linearGradient id="fog" x2="0" y2="1"><stop stop-color="#bdc09600"/><stop offset=".5" stop-color="#adbd9855"/><stop offset="1" stop-color="#aabd9400"/></linearGradient>
+<pattern id="lines" width="8" height="8" patternUnits="userSpaceOnUse"><path d="M0 0h8" stroke="#c6bd8c" stroke-opacity=".025"/></pattern>
+<pattern id="stone" width="34" height="28" patternUnits="userSpaceOnUse"><path d="M0 0h34M0 14h34M0 0v14m17 0v14" stroke="#9fa480" stroke-opacity=".10" stroke-width=".6"/></pattern>
+</defs>
+<path fill="url(#sky)" d="M0 0h1600v1000H0z"/>
+<ellipse cx="1230" cy="190" rx="310" ry="285" fill="url(#moon-glow)"/>
+<circle cx="1230" cy="180" r="73" fill="#d7d4a0" fill-opacity=".77"/>
+<path d="M1168 158q42-50 105-21M1161 181q71-26 132-2M1172 209q56 26 106 4" stroke="#6f8c6d" stroke-opacity=".2" stroke-width="5"/>
+<path d="M744 122q125-23 243 4t326 2M1017 261q146-27 309-8t287-2M651 355q177-30 350-10t376-1" stroke="#b6c9a2" stroke-opacity=".08" stroke-width="11" stroke-linecap="round"/>
+<g fill="#415343" fill-opacity=".65" stroke="#819279" stroke-opacity=".17" stroke-width="1">
+<path d="M520 705V504h67v-32l39-34 41 34v65h39V409l34-36 35 36v138h71V473l47-47 47 47v181h83V486h29v-38l35-42 37 42v38h45v223Z"/>
+<path d="M1225 698V410l39-41 39 41v-54l44-53 46 53v219h30V463h59v-39l42-43 42 43v97h49V325l29-33 30 33v390Z"/>
+</g>
+<g fill="#22382b" stroke="#82937a" stroke-opacity=".23" stroke-width="1">
+<path d="M433 806V577l91-112 89 112v229Z M493 537v-52h36v18"/>
+<path d="M605 828V653l74-84 76 84v175Z M670 605V545h22v55"/>
+<path d="M717 832V536l66-92 68 92v296Z M768 470V363h33v107 M767 362h35l-18-48Z"/>
+<path d="M813 885V625l96-128 101 128v260Z M956 561V493h27v103"/>
+<path d="M1228 830V547l80-108 84 108v283Z M1287 463v-58h29v46"/>
+<path d="M1341 847V574l107-130 112 130v273Z M1487 492v-61h25v90"/>
+<path d="M1541 892V515l60-77v454Z"/>
+</g>
+<g stroke="#b5bb8b" stroke-opacity=".22" stroke-width="1"><path d="m433 577 91-112 89 112M438 584l86-104 83 104M717 536l66-92 68 92 M1341 574l107-130 112 130 M1348 582l100-121 106 121"/></g>
+<g fill="#b1a66b" fill-opacity=".32"><path d="M514 609h9v17h-9z M545 674h9v16h-9z M647 711h8v14h-8z M786 579h8v20h-8z M766 629h8v17h-8z M914 683h11v20h-11z M934 752h9v17h-9z M1306 589h9v18h-9z M1357 623h9v16h-9z M1427 629h10v20h-10z M1492 709h9v15h-9z M1479 598h10v18h-10z"/></g>
+<g>
+<path d="M1078 860V361h-12v-23h15V235h-9l60-123 58 123h-10v103h16v23h-14v499Z" fill="#1c3026" stroke="#8c9772" stroke-opacity=".42"/>
+<path d="M1084 857V363h88v494Z" fill="url(#stone)"/>
+<path d="M1081 235h99M1071 338h125M1066 361h130M1081 440h102M1081 527h102M1081 632h102M1081 742h102 M1131 113V66m-12 10h24" stroke="#b1ad75" stroke-opacity=".38"/>
+<path d="m1085 232 47-97 44 97 M1093 231l39-81 35 81" stroke="#90a074" stroke-opacity=".35"/>
+<circle cx="1132" cy="291" r="35" fill="#111e18" stroke="#bcb180" stroke-opacity=".75"/>
+<circle cx="1132" cy="291" r="30" stroke="#bcb180" stroke-opacity=".35"/>
+<path d="M1132 264v5m0 44v5m-27-27h5m44 0h5M1113 272l4 4m30 30 4 4m0-38-4 4m-30 30-4 4M1132 291v-19m0 19 15 10" stroke="#cbc394" stroke-opacity=".85" stroke-width="1.4"/>
+<path d="M1111 399q0-12 9-16 9 4 9 16v30h-18Z M1140 399q0-12 9-16 9 4 9 16v30h-18Z" fill="#090f0c"/>
+<path d="M1117 548q15-20 30 0v30h-30Z M1117 659q15-20 30 0v35h-30Z" fill="#101e16" stroke="#909570" stroke-opacity=".26"/>
+<path d="M1101 235v26m63-26v26M1090 477h83" stroke="#ada576" stroke-opacity=".25"/>
+</g>
+<path d="M564 620q218-72 532-22t504 12v162H564Z" fill="url(#fog)" opacity=".45"/>
+<path d="M697 812q226-72 443-35t460-35v108H697Z" fill="url(#fog)" opacity=".35"/>
+<g stroke="#768469" stroke-opacity=".45">
+<path d="M925 1000V778h39v-34h102v-27h153v27h154v256" fill="#122219"/>
+<path d="M989 1000V823q125-158 249 0v177" fill="#080f0b"/>
+<path d="M1004 1000V828q110-133 219 0v172M983 819q130-165 260 0" stroke="#a5a075" stroke-opacity=".45"/>
+<path d="M989 826h25m-14-25 24 11m-4-43 21 14m5-36 13 20m12-34 11 23m33-27v25m34-23-7 23m28-13-11 21m27-5-17 18m27 10-22 11m28 18-24 6"/>
+<path d="M959 781v218m314-252v252M968 814h21M945 857h45m-51 49h50m247-47h35m-32 53h39"/>
+</g>
+<ellipse cx="1349" cy="754" rx="76" ry="104" fill="url(#lamp)"/>
+<path d="M1342 735h15v29h-15Z" fill="#171c11" stroke="#c9b570" stroke-opacity=".6"/>
+<path d="M1345 739h9v17h-9Z" fill="#e0bd70" fill-opacity=".6"/>
+<path d="M1350 727v-14m-8 18h15m-16 36h17" stroke="#ac945b" stroke-opacity=".65"/>
+<g fill="#090f0c" stroke="#7b886b" stroke-opacity=".3">
+<path d="M0 1000V799l126-99 121 99v201Z M168 1000V844l153-134 141 134v156Z"/>
+<path d="M362 1000V779l152-145 150 145v221Z M493 654v-88h26v70"/>
+<path d="M548 1000V916l164-142 175 142v84Z M714 790v-65h28v90"/>
+<path d="M1300 1000V926l192-196 108 110v160Z M1460 762v-86h27v62"/>
+</g>
+<path d="m358 779 156-145 151 145M374 785l140-129 137 129M548 916l164-142 175 142M1300 926l192-196 108 110" stroke="#adae7b" stroke-opacity=".32"/>
+<g stroke="#a0a97d" stroke-opacity=".12" stroke-width="1"><path d="m413 730 56 50m-34-68 76 68m-51-88 93 88m-58-107 106 107m-121-17 117 102M589 881l72 35m-37-62 91 62m-51-96 125 96m-71-133 156 133M1361 864l94 62m-58-99 120 99m-88-132 128 132m-94-166 137 166"/></g>
+<g fill="#060b09" stroke="#6f7c62" stroke-opacity=".3">
+<path d="M827 897q-10-64 20-105 19-23 41-26 31 2 52 35l-16 18 19 47 41 38-3 18-51-14-16-36-2 27 63 55-9 29-54-31-52-53-23 50-54 22-9-17 42-37Z"/>
+<path d="M847 792q26-17 52 11l-9 37-34-8-17-21Z"/>
+</g>
+<path d="m845 798 12-14 28-9m-17 65 9 41-30 17M925 861l29 35M841 952l-14 23" stroke="#bdaf78" stroke-opacity=".27"/>
+<path fill="url(#lines)" d="M0 0h1600v1000H0z"/>
+</svg>
