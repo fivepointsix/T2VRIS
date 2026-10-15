@@ -19,7 +19,8 @@ The current version includes the first mission, Running Interference.
    to close the window.
 4. Open the game page on the device you will play on and select
    **Choose game ZIP**. Choose the ZIP you just created.
-5. Select **Play**, wait for the mission to load, then select **Enter VR**.
+5. Select **Play**, wait for Garrett's apartment to load, then select **Enter VR**.
+6. Use your VR hands to select **New Game** on the retail menu inside the closet.
 
 For standalone Quest, copy the ZIP from your PC to the headset before
 step 4, then open the page in Quest Browser.

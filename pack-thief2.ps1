@@ -31,8 +31,8 @@ try {
             $added[$name] = $true
         }
     }
-    $required = @('MISS1.MIS', 'DARK.GAM', 'motiondb.bin',
-        'RES/fam.crf', 'RES/obj.crf', 'RES/mesh.crf', 'RES/motions.crf',
+    $required = @('MISS1.MIS', 'MISS5.MIS', 'DARK.GAM', 'dark.cfg', 'motiondb.bin',
+        'RES/intrface.crf', 'RES/fam.crf', 'RES/obj.crf', 'RES/mesh.crf', 'RES/motions.crf',
         'RES/pal.crf', 'RES/snd.crf', 'RES/song.crf')
     $missing = @()
     foreach ($name in $required) {

@@ -104,8 +104,8 @@ add_file() (
 )
 
 missing=
-for name in MISS1.MIS DARK.GAM motiondb.bin \
-    RES/fam.crf RES/obj.crf RES/mesh.crf RES/motions.crf \
+for name in MISS1.MIS MISS5.MIS DARK.GAM dark.cfg motiondb.bin \
+    RES/intrface.crf RES/fam.crf RES/obj.crf RES/mesh.crf RES/motions.crf \
     RES/pal.crf RES/snd.crf RES/song.crf; do
     source=$(lookup "$name")
     case "$name" in RES/*) [ -n "$source" ] || source=$(lookup "${name#RES/}") ;; esac
